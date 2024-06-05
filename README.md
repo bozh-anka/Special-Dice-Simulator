@@ -8,5 +8,8 @@ The program will use the probability and symbols of the dice used for “The Edg
 Pictures for reference and dice definitions at end of file. The program will load a set number of each die type, the user will then select how many of which to roll.
 The program can then output the roll results and do the necessary cancellations to present the final result. 
 
-Dice symbol breakdown:
+### Dice symbol breakdown:
+
+
+
 ![CaptureSWDice](https://github.com/bozh-anka/Special-Dice-Simulator/assets/81514272/139ee846-ac98-4966-b8d4-f994b4c3e125)
